@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.pageIntro
+{
+  color: white;
+  background-color: black;
+  height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
